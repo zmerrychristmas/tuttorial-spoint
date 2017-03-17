@@ -1,8 +1,8 @@
 {
-    "name": "z-merrychristmas/tutorial-spoint/hello-world",
+    "name": "z-merrychristmas/hello-world",
     "authors": [
         {
-            "name": "z-merrychristmas/tutorial-spoint"
+            "name": "z-merrychristmas"
         }
     ],
     "require": {},
